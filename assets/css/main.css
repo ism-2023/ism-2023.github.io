@@ -288,6 +288,7 @@ button:focus {
 
 .mb-30 {
   margin-bottom: 30px;
+  overflow-x: scroll;
 }
 
 .mt-30 {
